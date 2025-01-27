@@ -39,5 +39,8 @@ while True:
             continue
         elif jawaban2.lower() == "n":
             print("Terima kasih telah bermain!")
-
+        else: 
+            print("Maaf, jawaban anda tidak valid. Silakan masukkan jawaban yang benar")
+    else: 
+        print("Maaf, jawaban anda tidak valid. Silakan masukkan jawaban yang benar")
     
