@@ -9,7 +9,7 @@ print("nilai akhir anda adalah: ", na)
 
 
 r = int(input("masukkan nilai jari-jari bola: "))
-volume = 4/3 * 3,14 * r**3
-luas_permukaan = 4 * 3,14 * r**2
+volume = 4/3 * 3.14 * r**3
+luas_permukaan = 4 * 3.14 * r**2
 print("nilai voleme dari sebuah bola adalah: ", volume)
 print("luas permukaan dari sebuah bola adalah" , luas_permukaan)

@@ -3,7 +3,7 @@ print(penjumlahan)
 
 
 r = int(input("masukkan nilai jari-jari: "))
-volume = 4/3 * 3,14 * r**3
+volume = 4/3 * 3.14 * r**3
 print(volume)
 
 jam_masuk = int(input("masukkan jam masuk anda : "))
